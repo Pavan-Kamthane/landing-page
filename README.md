@@ -12,7 +12,6 @@ This Landing Page project is part of [The Odin Project's](https://www.theodinpro
 - **Contact:** A call-to-action box encouraging users to sign up for free to access features.
 - **Footer:** A footer with copyright information and a link to the landing page.
 
-The project's HTML structure and CSS styling work together to create an engaging and functional landing page. The use of flexbox and responsive design ensures the page looks great on various devices. The provided code is a result of completing The Odin Project's curriculum and serves as an example of web development skills learned through the course.
 
 ## Usage
 
