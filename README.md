@@ -1,5 +1,8 @@
 # Landing Page Project
 
+![Output](https://github.com/Pavan-Kamthane/landing-page/assets/95903010/a8b431d0-a8c0-417e-af13-926adc9d0d4f)
+
+
 This Landing Page project is part of [The Odin Project's](https://www.theodinproject.com/paths) curriculum. It demonstrates the creation of a responsive and visually appealing landing page using HTML and CSS. The project is centered around Pavan Kamthane's personal portfolio and includes various sections such as:
 
 - **Header:** A dynamic header featuring a logo and navigation menu.
